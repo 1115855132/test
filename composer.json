@@ -1,0 +1,14 @@
+{
+    "name": "1115855132/test",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zof",
+            "email": "1115855132@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
